@@ -31,8 +31,6 @@
   
   <p align="center">
   <em>
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px" height="20px">&nbsp;Fun-Fact: I have <b>13 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raushan9jnv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raushan9jnv" height="30" width="40" /></a>
