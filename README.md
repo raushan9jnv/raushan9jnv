@@ -15,7 +15,7 @@
 
 <p align="center">
   <em>
-    I am Raushan Kumar, a Data Scientist who likes to code.  <br><br>
+    I am Raushan Kumar, a Data Scientist who Building bridges between data and decisions.  <br><br>
     A budding <b>Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px"> and a <b>tech enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px" height="36px">&nbsp,<br>who is <b>interested</b> in knowing about how to use technology to help make people's lives more fulfilling.&nbsp.
   </em> 
   <br><br>
