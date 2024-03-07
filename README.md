@@ -25,6 +25,8 @@
   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" height="30px"/> 
   <br><br>
 </p>
+<h1 align="center">Hello, fellow &lt coders </b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px">/&gt! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
+<h3 align="center">I'm Raushan Kumar, A Data Scientist who Building bridges between data and decisions.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raushan9jnv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raushan9jnv" height="30" width="40" /></a>
