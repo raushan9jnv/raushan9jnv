@@ -31,26 +31,14 @@
   
   <p align="center">
   <em>
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px" height="20px">&nbsp;Fun-Fact: I have <b>13 Reasons Why</b> ▶️&nbsp; to live Happy & Money is one of them... </em></p>
-  
-<p align="center"> 
-  <i>Profile Visitor count</i><br>
-  <img src="https://profile-counter.glitch.me/utkarsh-yadav1231/count.svg" /> 
-  <!-- <img src="https://komarev.com/ghpvc/?username=utkarsh-yadav1231&color=green" /> -->
-</p>
-
-
-<h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
-
-- 📫 How to reach me **raushan9jnv@gmail.com**
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px" height="20px">&nbsp;Fun-Fact: I have <b>13 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raushan9jnv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raushan9jnv" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/raushan9jnv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raushan9jnv" height="30" width="40" /></a>
 <a href="https://kaggle.com/raushan9jnv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raushan9jnv" height="30" width="40" /></a>
-<a href="https://instagram.com/robin_raushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robin_raushan" height="30" width="40" /></a>
+<a href="ht tps://instagram.com/robin_raushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robin_raushan" height="30" width="40" /></a>
 <a href="https://medium.com/raushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="raushan" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/raushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="raushan" height="30" width="40" /></a>
 </p>
