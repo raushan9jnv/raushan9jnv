@@ -7,10 +7,6 @@
   <a href="mailto:raushan9jnv@gmail.com">
   <img align="center" alt="Raushan @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
-<a href="https://www.instagram.com/robin_raushan/">
-  <img align="center" alt="Raushan @Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 </h1>
 
 <p align="center">
@@ -29,7 +25,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/raushaniitp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raushan9jnv" height="30" width="40" /></a>
 <a href="https://kaggle.com/raushan9jnv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raushan9jnv" height="30" width="40" /></a>
-  <!-- <a href="https://instagram.com/robin_raushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robin_raushan" height="30" width="40" /></a> -->
   <a href="https://medium.com/@mindshiftai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="raushan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16332587/raushan-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raushan9jnv" height="30" width="40" /></a>
  
